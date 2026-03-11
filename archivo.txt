@@ -1,0 +1,7 @@
+Eric Jauregui Ruelas
+11/03/2026
+Objetivo
+Que el alumno practique el flujo completo de trabajo en GitHub partiendo desde cero: crear un repositorio nuevo, clonarlo, trabajar en una rama, realizar cambios y generar un Pull Request (PR).
+
+
+Un pull request es una solicitud para que los cambios hechos en una rama sean revisados y fusionados en otra rama de un repositorio.
